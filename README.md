@@ -77,11 +77,15 @@ php artisan optimize
 *Run php artisan serve. Open http://localhost:8000, you should see the homepage & Go to /admin to access to admin panel.*
 
 *Admin Login*
+```
 username = botble 
 password = 159357
+```
 
 *Customer Login*
+```
 username = john.smith@botble.com
 password = 12345678
+```
 
 

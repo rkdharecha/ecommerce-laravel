@@ -30,17 +30,12 @@
 ## Screenshots
 
 # Frontend
-![alt tag](https://i.imgur.com/Lvm0yy4.jpg)
 
-![second one](https://i.imgur.com/cTytfyf.jpg)
-
-![alt tag](https://i.imgur.com/yVHJYCq.jpg)
-
-# Backend
-![alt tag](https://i.imgur.com/kaGC7Ic.jpg)
-
-![alt tag](https://i.imgur.com/BMBim3p.jpg)
-
+<a href="https://i.imgur.com/Lvm0yy4.jpg"><img src="https://i.imgur.com/Lvm0yy4.jpg" title="source: imgur.com" /></a><br>
+<a href="https://i.imgur.com/cTytfyf.jpg"><img src="https://i.imgur.com/cTytfyf.jpg" title="source: imgur.com" /></a><br>
+<a href="https://i.imgur.com/yVHJYCq.jpgg"><img src="https://i.imgur.com/yVHJYCq.jpg" title="source: imgur.com" /></a><br>
+<a href="https://i.imgur.com/kaGC7Ic.jpg"><img src="https://i.imgur.com/kaGC7Ic.jpg" title="source: imgur.com" /></a><br>
+<a href="https://i.imgur.com/BMBim3p.jpg"><img src="https://i.imgur.com/BMBim3p.jpg" title="source: imgur.com" /></a><br>
 
 ## Installation (Local)
 

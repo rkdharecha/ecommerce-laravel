@@ -32,7 +32,7 @@
 # Frontend
 ![alt tag](https://i.imgur.com/Lvm0yy4.jpg)
 
-![alt tag](https://i.imgur.com/cTytfyf.jpg)
+![second one](https://i.imgur.com/cTytfyf.jpg)
 
 ![alt tag](https://i.imgur.com/yVHJYCq.jpg)
 

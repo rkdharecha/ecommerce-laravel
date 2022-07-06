@@ -32,8 +32,19 @@
 # Frontend
 ![alt tag](https://i.imgur.com/Lvm0yy4.jpg)
 
+![alt tag](https://i.imgur.com/cTytfyf.jpg)
+
+![alt tag](https://i.imgur.com/yVHJYCq.jpg)
+
+# Backend
+![alt tag](https://i.imgur.com/kaGC7Ic.jpg)
+
+![alt tag](https://i.imgur.com/BMBim3p.jpg)
+
 
 ## Installation (Local)
+
+*You Can Install it on your local pc by following below steps:*
 
 *Download or clone the repository in your system.*
 

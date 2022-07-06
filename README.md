@@ -90,4 +90,4 @@ password = 12345678
 ## Screenshots
 
 # Frontend
-![Image](https://imgur.com/Lvm0yy4)
+<img align="center" src="https://imgur.com/Lvm0yy4" width="500" height="320" />

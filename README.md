@@ -27,3 +27,61 @@
 - Fully Responsive: Compatible with all screen resolutions.
 - Coding Standard: All code follow coding standards PSR-2 and best practices.
 
+
+## Installation (Local)
+
+*Download or clone the repository in your system.*
+
+```
+git clone --depth 1 https://github.com/rkdharecha/ecommerce-laravel.git
+```
+
+*Go to ecommerce-laravel folder and open terminal then follow below steps.*
+
+*Install Composer:*
+```
+composer Install
+```
+
+*Make a copy of .env.example file to .env:*
+```
+cp .env.example .env
+```
+
+*Change APP_URL in .env to APP_URL=http://localhost:8000*
+
+*Import Database from project root folder named (Database.sql)*
+
+*Set the database credentials:*
+
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=database_name
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+*Then Generate Application Key:*
+
+```
+php artisan key:generate
+```
+
+*Clear cache by below command:*
+```
+php artisan optimize
+```
+
+*Run php artisan serve. Open http://localhost:8000, you should see the homepage & Go to /admin to access to admin panel.*
+
+*Admin Login*
+username = botble 
+password = 159357
+
+*Customer Login*
+username = john.smith@botble.com
+password = 12345678
+
+
